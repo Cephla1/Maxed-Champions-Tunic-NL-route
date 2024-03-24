@@ -1,0 +1,240 @@
+- Great Plateau:
+  - SOR clip:
+      icon: sor
+      coord: [-1124.96, 238.47, 1903.14]
+      notes: Don't activate ToD
+  - Run to Boko Camp:
+      coord: [-964.50, 238.84, 1953.28]
+  - Pot Lid:
+      coord: [-952.34, 238.33, 1959.44]
+      icon: shield
+  - Boko Spear & Torch:
+      coord: [-944.59, 238.76, 1954.08]
+      notes: If missed torch, get traveler's sword at Tower
+      icon: weapon
+  - Run and surf to ToT:
+      coord: [-887.25,1989.5080869073454]
+  - Traveler's Bow:
+      coord: [-832.43, 222.00, 1963.11]
+      notes: Clip in
+      icon: chest
+  - 5x Arrow:
+      coord: [-821.73, 221.98, 1963.27]
+      comment: Break pot
+      icon: bow
+  - BLSS and clip in:
+      coord: [-449.48, 163.04, 1990.06]
+  - _Shrine::JaBaij
+  - Old Man:
+      coord: [-449.48, 163.04, 1990.06]
+      comment: Text options 2-1-1-2
+      icon: oldman
+  - _Tower::GreatPlateau
+  - _Shrine::OmanAu
+  - BLSS -> Tree WB -> Clip in:
+      coord: [-828.25,2254.975952091315]
+  - _Shrine::OwaDaim
+  - Boulder -> BLSS -> Clip in:
+      coord: [-1437.27, 316.69, 1995.57]
+  - _Shrine::KehNamut
+  - BLSS:
+      coord: [-809.33, 263.58, 1964.35]
+  - Paraglider:
+      coord: [-809.33, 263.58, 1964.35]
+      icon: oldman
+- Akkala Fairy:
+  - BLSS to Kak:
+      color: '#FF9500'
+      coord: [1772.71, 229.43, 984.31]
+  - Talk to Impa:
+      coord: [1772.71, 229.43, 984.31]
+      notes: Talk to her twice to get the camera quest
+      icon: impa
+  - 2x Endura Carrots:
+      coord: [1978.34, 269.04, 823.80]
+      icon: item
+  - 2x Fairies:
+      coord: [1965.43, 269.69, 854.73]
+      icon: item
+  - 2x Blue Nightshade:
+      coord: [1963.82, 267.76, 854.37]
+      icon: item
+  - 2x Wood:
+      coord: [1963.82, 267.76, 854.37]
+      comment: Bomb a tree(s)
+      icon: item
+  - 3x Silent Princess:
+      coord: [1995.75, 267.90, 842.24]
+      icon: item
+  - Exchange 4x spirit orbs:
+      coord: [1840.12, 218.54, 997.89]
+      notes: Drop pot lid while waiting for statue to load in
+      icon: zelda
+  - 1 Apple:
+      coord: [1809.18, 218.99, 994.71]
+      comment: Used as check item
+      icon: item
+  - Pot Lid:
+      coord: [1798.63, 219.90, 1011.16]
+      icon: shield
+  - IST:
+      coord: [1831.625,1018.3544251666981]
+      notes: https://zsr.link/qZwDf
+      icon: ist
+  - Sell 400 carrots:
+      coord: [1831.625,1018.3544251666981]
+      icon: item
+  - Buy all 5x arrows:
+      coord: [1831.625,1018.3544251666981]
+      icon: bow
+  - Buy all 5x fire arrows:
+      coord: [1831.625,1018.3544251666981]
+      icon: bow
+      notes: D&P the first stacks of wood and silent princesses in the inventory
+  - Activate Ta'loh Naeg:
+      coord: [1821.70, 260.21, 871.13]
+      icon: shrine
+  - Silent princess:
+      coord: [1846.14, 327.67, 820.96]
+      icon: item
+  - BLSS from stump:
+      coord: [1875.50, 217.19, 814.00]
+  - Shoot Farosh for scale:
+      coord: [1740.75,2905.25]
+      comment: Set morning with wood and fire arrows
+      icon: bow
+  - Shoot horn and collect:
+      coord: [1740.75,2905.25]
+      comment: Save and reload
+      icon: bow
+  - BLSS to ancient furnace:
+      coord: [3437.875,1975.875]
+      notes: D&P Farosh horn and first silent princess stack
+      icon: weapon
+  - Weapon smuggle flame to tech lab:
+      movements:
+        - [3643,2102]
+        - [3777,2119.5]
+      icon: lab
+  - Get camera rune:
+      coord: [3777,2119.5]
+      icon: camera
+  - Windbomb chain to Naydra:
+      movements:
+        - [3826,1702]
+        - [4020,1522]
+        - [3969,1356.5]
+  - Shoot eye to start sequence:
+      coord: [3969,1356.5]
+      icon: bow
+  - Second eye:
+     coord: [3860,1316.5]
+     icon: bow
+  - Third eye:
+     coord: [3860,1655]
+     icon: bow
+  - Fourth eye:
+     coord: [3434,1351]
+     icon: bow
+  - Shoot Naydra again for scale:
+     color: '#FF3333'
+     movements:
+       - to: [3971,1353]
+         warp: true
+     icon: bow
+  - Set morning:
+      coord: [3841.625,1301.375]
+  - WB to Naydra and shoot horn:
+      coord: [4311,1105]
+      icon: bow
+  - Pick up horn and BLSS to fairy:
+      coord: [4136.89, 274.97, -1401.48]
+      icon: item
+      notes: You will need to find a BLSS spot on the fly as the horn drop has a huge range   
+  - 3x silent princess:
+      coord: [4136.89, 274.97, -1401.48]
+      icon: item
+  - Open fairy:
+      coord: [4110.77, 271.69, -1377.55]
+      icon: fairy
+- Kak 2:
+  - Warp to Ta'loh Naeg:
+      color: '#1EFF00'
+      movements:
+        - to: [1821.70, 260.21, 871.13]
+          warp: true
+      icon: shrine
+  - Speak to Impa:
+      coord: [1772.71, 229.43, 984.31]
+      icon: impa
+- Dinraal:
+  - Warp to Keh Namut:
+      color: '#FF00C8'
+      movements:
+        - to: [-1437.27, 316.69, 1995.57]
+          warp: true
+      icon: shrine
+  - BLSS to Great Fairy:
+     coord: [-3528.98, 292.37, -739.48]
+  - 2x silent princess:
+     coord: [-3528.98, 292.37, -739.48]
+     icon: item
+  - Open fairy:
+     coord: [-3538.73, 292.48, -746.06]
+     icon: fairy
+  - Set morning on middle rock:
+     coord: [-3558.75,-597.25]
+     icon: misc
+  - Watch memory:
+     coord: [-3501.04, 383.73, -421.26]
+     icon: misc
+  - WB to Dinraal:
+     coord: [-3072,-946]
+     comment: Shoot for scale
+     icon: bow
+  - Set morning:
+     coord: [-3235,-987]
+     icon: misc
+  - Shoot for horn:
+     coord: [-2673,-1481]
+     icon: bow
+  - Pick up scale:
+     coord: [-2673,-1481]
+     comment: Save and reload
+     icon: item
+  - Combine horn stacks:
+     coord: [-2673,-1481]
+- Gerudo Fairy:
+  - Warp to Keh Namut:
+      color: '#001EFF'
+      movements:
+        - to: [-1437.27, 316.69, 1995.57]
+          warp: true
+      icon: shrine
+  - BLSS to fairy:
+     coord: [-4870.94, 122.72, 3825.82]
+     comment: Open fairy
+     icon: fairy
+- Maxed Tunic:
+  - Warp to Ta'loh Naeg:
+      color: '#00FFEE'
+      movements:
+        - to: [1821.70, 260.21, 871.13]
+          warp: true
+      icon: shrine
+  - Speak to Impa:
+      coord: [1772.71, 229.43, 984.31]
+      comment: Get champion's tunic
+      icon: impa
+  - Open fairy:
+     coord: [1976.00, 267.50, 846.00]
+     comment: Upgrade all 4 times
+     icon: fairy
+
+      
+
+
+
+
+      
+      

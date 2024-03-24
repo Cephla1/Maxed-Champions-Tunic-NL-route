@@ -1,0 +1,24 @@
+title: Maxed Champion's Tunic NL
+version: 1.0.0
+route: 
+  use: ./main.yaml
+config:
+- icons:
+    sor: https://icons.pistonite.org/icon/location.sor.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png 
+    shield: https://icons.pistonite.org/icon/misc.shield.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    weapon: https://icons.pistonite.org/icon/shrine.sword.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    bow: https://icons.pistonite.org/icon/shrine.sword.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    chest: 
+    oldman: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACqUlEQVR4nO1aXWoCMRAeSw9j8UIFi++CxxF8XxS8kOht7NOUmE0mM5mZbGnng2JZ1yTfl/nL7AIEAoFAIBAIBMZjP92e++n2XHINb0tNnBJfUoRFBEDCn18fs2ujsbIecD/dnqfdpjpuTv56vhfvo8awhKkFILnabnLJU2NY491r4NwSKPLH7frlt4fLw2tZM7jEACSUWwSH/Gi4BcFcBI7ZA7zu/gg3GJYFruf7jDxn971FcBWAIlj6rub7niKYCoBBrxXEevzeSwR3F8jJSq0ihYcIpsVGukCL6F6zJMsiycwC8t0pLR6vHS6Pnz/qHu5cGpgoSS0ILYEiVLrnuF03Y4mFJagtoHSwQaRugP9zYkD6Sd1vYQkqAbjktd+VruGcWhG6Beit8Gp+X4sJFCxE6BKA2nkAehdb2YErAlaWWhHEArTIU5AERC60IogEqJHvPd3lUVxTJPWKwE4jLfKn3WaF91CLLe1+b9GUjpXHIm6KZFkAh3z6SQW6HNb9AKkluHWEEDV/tyaexgIJxC6ghSVxKphyXUBUSmpF4JBHUlQp3MomkhJZLQCnscHddUkhVBNBej4QpUFu2rLo8nJFw/NC3oPkQhwE03QHMD/BWWJEu7y7Eiz5qHc/PxXEai7TNOjZ4/cSt/s0KAl0GmGoU2JtDZI4YNIS89r5EZWjiQAeseBwecw6Q602GX7nVgcA0EGwBMmOURmllO9Lhy+pCK5nAY/WuPV7AyoX8Ap8APPgd9ptVjl57pMoCmIB8knzzi3Vye3p+6VzeqDLBdD/WmS46as1l2hxQqgG9350zSWfr8M1C0gWU3pFhgvpzuP40t8NeRMLUXuW0NvPs8BQAQD4/cVRGP6iJBJMW+lLkQdYwAIQmsD1Z/AbXpYOBAKBQCAQ+Lf4Bngc74iGj14RAAAAAElFTkSuQmCC
+    impa: https://icons.pistonite.org/icon/character.impa.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+    item: https://icons.pistonite.org/icon/misc.apple.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    zelda: https://icons.pistonite.org/icon/character.zelda.none.69a2d5.c1fefe.69a2d5.c1fefe.69a2d5.c1fefe.png
+    ist: https://icons.pistonite.org/icon/misc.monster.none.cfa240.ffd700.8c5e28.fdfdfd.8c5e28.fdfdfd.png
+    lab: https://icons.pistonite.org/icon/location.lab.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    camera: https://icons.pistonite.org/icon/rune.camera.none.568c28.c8e6af.568c28.fdfdfd.568c28.fdfdfd.png
+    fairy: https://icons.pistonite.org/icon/character.great_fairy.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+    misc: https://icons.pistonite.org/icon/misc.square.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+- use: Pistonight/celer-presets/botw/full.yaml
+- plugins:
+  - use: variables
+  
